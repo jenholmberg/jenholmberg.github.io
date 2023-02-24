@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Can provide CV upon request -- send me an email @ jenh@berkeley.edu!
+Will provide upon request -- send me an email @ jenh@berkeley.edu!
