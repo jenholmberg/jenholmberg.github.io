@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Will provide upon request -- send me an email @ jenh@berkeley.edu!
+Will provide upon request -- send me an email at jenh@berkeley.edu!
