@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Minnesota, Twin Cities"
-date: 2015-2016
+date: "2015-2016"
 location: "Saint Paul, MN"
 ---
 
