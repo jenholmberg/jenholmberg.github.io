@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "home"
 title_separator          : "-"
-name                     : &name "Jen Holmberg"
+name                     : &name "jen Holmberg"
 description              : &description "Neuroscience PhD Student at UC Berkeley, co-advised by Dr. Michael Silver and Dr. Jack Gallant"
 url                      : https://jenholmberg.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jen Holmberg"
+  name             : "Jen holmberg"
   avatar           : "profile.png"
-  bio              : "Neuroscience Ph.D. Student at UC Berkeley"
+  bio              : "Neuroscience Ph.D. Student @ UC Berkeley"
   location         : "Berkeley, California"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
