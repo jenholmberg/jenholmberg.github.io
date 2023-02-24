@@ -78,12 +78,12 @@ analytics:
     tracking_id          :
 
 
-# Site Author
+# Site Author -- this is what shows up in sidebar
 author:
-  name             : "Jen holmberg"
+  name             : "Jen Holmberg"
   avatar           : "profile.png"
   bio              : "Neuroscience Ph.D. Student @ UC Berkeley"
-  location         : "Berkeley, California"
+  location         : "Berkeley, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
