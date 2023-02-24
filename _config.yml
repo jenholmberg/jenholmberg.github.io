@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jen Holmberg"
+title                    : "home"
 title_separator          : "-"
 name                     : &name "Jen Holmberg"
 description              : &description "Neuroscience PhD Student at UC Berkeley, co-advised by Dr. Michael Silver and Dr. Jack Gallant"
