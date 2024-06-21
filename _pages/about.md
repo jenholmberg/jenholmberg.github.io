@@ -10,6 +10,6 @@ redirect_from:
   
 ---  
   
-I am a Ph.D. candidate in the [Helen Wills Neuroscience Institute](https://neuroscience.berkeley.edu/) at UC Berkeley. I work with [Dr. Michael Silver](https://argentum.ucbso.berkeley.edu/) and [Dr. Jack Gallant](https://gallantlab.github.io/) to investigate how psilocybin changes visual and semantic brain representations using fMRI and voxelwise modeling. I also co-lead a psychedelic neuroscience journal club and volunteer with the [Harm Reduction Expansion Project](https://csi.berkeley.edu/crp/hrep/) on campus. In my free time I like to hang out with my cat, [draw](https://www.instagram.com/glitterphysics/), and be outside.  
-  
+I am a Ph.D. candidate in the [Helen Wills Neuroscience Institute](https://neuroscience.berkeley.edu/) at UC Berkeley. I work with [Dr. Michael Silver](https://argentum.ucbso.berkeley.edu/) and [Dr. Jack Gallant](https://gallantlab.github.io/) to investigate how psilocybin changes visual and semantic brain representations using fMRI and computational models. 
+
 Please reach out via email or twitter if you're interested in connecting!  
